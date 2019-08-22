@@ -1,0 +1,23 @@
+{
+  "header":{
+    "title": "Web:Bit 教学手册",
+    "home": "首页",
+    "menu": {
+      "faq" : "常见问题",
+      "faqURL" : "#",
+      "buy" : "购买套件",
+      "buyURL" : "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=topmenu"
+    }
+  },
+  "footer":{
+    "menu":{
+      "website": "Webduino 官网",
+      "webbit": "Web:Bit 教育版",
+      "cloud": "云端平台",
+      "store": "在线商店",
+      "storeURL": "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=footermenu"
+    },
+    "msg1": "Copyright 2019 | All Rights Reserved. Power by Webduino.io",
+    "msg2": "80661 高雄市前镇区复兴四路 12 号 2 楼之 6 / 886-7-3388511"
+  }
+}
