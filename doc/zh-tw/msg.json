@@ -1,23 +1,53 @@
 {
-  "header":{
+  "header": {
     "title": "Web:Bit 教學手冊",
     "home": "首頁",
     "menu": {
-      "faq" : "常見問題",
-      "faqURL" : "#",
-      "buy" : "購買套件",
-      "buyURL" : "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=topmenu"
+      "faq": "常見問題",
+      "faqURL": "#",
+      "buy": "購買套件",
+      "buyURL": "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=topmenu"
     }
   },
-  "footer":{
-    "menu":{
-      "website": "Webduino 官網",
-      "webbit": "Web:Bit 教育版",
-      "cloud": "雲端平台",
-      "store": "線上商店",
-      "storeURL": "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=footermenu"
+  "footer": {
+    "h4": {
+      "aboutus": "關於我們",
+      "tutorials": "教材",
+      "products": "硬體套件包",
+      "software": "軟體服務",
+      "contact": "聯絡我們",
+      "lang": "其他語系"
     },
-    "msg1": "Copyright 2019 | All Rights Reserved. Power by Webduino.io",
-    "msg2": "80661 高雄市前鎮區復興四路 12 號 2 樓之 6 / 886-7-3388511"
+    "menu": {
+      "website": "官方網站",
+      "websiteURL": "https://webduino.io/",
+      "aboutus": "關於我們",
+      "aboutusURL": "https://webduino.io/about.html",
+      "partner": "合作夥伴",
+      "partnerURL": "https://webduino.io/partner.html",
+      "tutorials": "學習手冊",
+      "tutorialsURL": "https://tutorials.webduino.io/",
+      "activity": "課程活動",
+      "activityURL": "https://webduino.io/activity.html",
+      "faq": "常見問題",
+      "faqURL": "https://tutorials.webduino.io/zh-tw/docs/faq/index.html",
+      "buyBoard":"開發板",
+      "buyBoardURL":"https://webduino.io/buy.html",
+      "buyPackage":"電子套件包",
+      "buyPackageURL":"https://webduino.io/buy.html",
+      "cloud": "雲端平台",
+      "cloudURL": "https://cloud.webduino.io/",
+      "webbit": "Web:Bit 教育版",
+      "webbitURL": "https://webbit.webduino.io/blockly/?utm_source=tutorials&utm_medium=footermenu",
+      "store": "線上商店",
+      "storeURL": "https://store.webduino.io/categories/all",
+      "tel": "+886 7 3388511",
+      "email": "service@webduino.io",
+      "emailURL": "mailto:servie@webduino.io",
+      "address": "806 高雄市前鎮區復興四路 12 號 2 樓之 6",
+      "langTW":"繁體中文",
+      "langCN":"简体中文",
+      "langEN":"English"
+    }
   }
 }
