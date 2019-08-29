@@ -1,11 +1,11 @@
 - [Web:Bit 教育版](education/index.md)
-- 認識 Web:Bit 教育版
+- **認識 Web:Bit 教育版**
   - [硬體開發板 ( 初始化設定 )](education/info/setup.md)
   - [硬體開發板 ( 更新韌體 )](education/info/ota.md)
   - [編輯器 ( 安裝版工具列 )](education/info/toolbar.md)
   - [編輯器 ( 操作介面 )](education/info/interface.md)
-- 基本功能
-  - [變數](education/basic/variables.md)
+- **基本功能**
+  - [變數](education/basic/variables.md) 
   - [邏輯](education/basic/logic.md)
   - [重複](education/basic/loop.md)
   - [數學](education/basic/math.md)
@@ -13,18 +13,18 @@
   - [陣列](education/basic/array.md)
   - [顏色](education/basic/color.md)
   - [函式](education/basic/function.md)
-- 怪獸控制
+- **怪獸控制**
   - [基本操作](education/monster/basic.md)
   - [互動＆舞台](education/monster/event.md)
-- 偵測
+- **偵測**
   - [鍵盤行為](education/detect/keyboard.md)
   - [日期＆時間](education/detect/time.md)
   - [對話框輸入文字](education/detect/input.md)
-- 語音＆音效
+- **語音＆音效**
   - [特殊音效](education/sound/sound-effect.md)
   - [語音朗讀](education/sound/speak-aloud.md)
   - [語音辨識](education/sound/speech-recognition.md)
-- Web:Bit 開發板
+- **Web:Bit 開發板**
   - [開發板](education/board/board.md)
   - [矩陣 LED](education/board/rgbled-matrix.md)
   - [按鈕開關](education/board/ab-button.md)
@@ -32,12 +32,12 @@
   - [音樂＆聲音](education/board/buzzer.md)
   - [九軸體感偵測](education/board/mpu9250.md)
   - [I/O 引腳](education/board/io-pin.md)
-- 擴充功能
+- **擴充功能**
   - [Google 試算表](education/extension/google-spreadsheet.md)
   - [氣象資訊](education/extension/weather.md)
   - [網路廣播](education/extension/broadcast.md)
   - [LINE 聊天操控](education/extension/line.md)
-- 基本套件包
+- **基本套件包**
   - [紅外線發射＆接收](education/extension-basic-package/ir.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
   - [伺服馬達](education/extension-basic-package/servo.md)

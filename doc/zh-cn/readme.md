@@ -1,10 +1,10 @@
 - [Web:Bit 教育版](education/index.md)
-- 认识 Web:Bit 教育版
+- **认识 Web:Bit 教育版**
   - [硬件开发板 ( 初始化设定 )](education/info/setup.md)
   - [硬件开发板 ( 更新韧体 )](education/info/ota.md)
   - [编辑器 ( 安装版工具栏 )](education/info/toolbar.md)
   - [编辑器 ( 操作接口 )](education/info/interface.md)
-- 基本功能
+- **基本功能**
   - [变量](education/basic/variables.md)
   - [逻辑](education/basic/logic.md)
   - [重复](education/basic/loop.md)
@@ -13,18 +13,18 @@
   - [数组](education/basic/array.md)
   - [颜色](education/basic/color.md)
   - [函式](education/basic/function.md)
-- 怪兽控制
+- **怪兽控制**
   - [基本操作](education/monster/basic.md)
   - [互动＆舞台](education/monster/event.md)
-- 侦测
+- **侦测**
   - [键盘行为](education/detect/keyboard.md)
   - [日期＆时间](education/detect/time.md)
   - [对话框输入文字](education/detect/input.md)
-- 语音＆音效
+- **语音＆音效**
   - [特殊音效](education/sound/sound-effect.md)
   - [语音朗读](education/sound/speak-aloud.md)
   - [语音识别](education/sound/speech-recognition.md)
-- Web:Bit 开发板
+- **Web:Bit 开发板**
   - [开发板](education/board/board.md)
   - [矩阵 LED](education/board/rgbled-matrix.md)
   - [按钮开关](education/board/ab-button.md)
@@ -32,12 +32,12 @@
   - [音乐＆声音](education/board/buzzer.md)
   - [九轴体感侦测](education/board/mpu9250.md)
   - [I/O 引脚](education/board/io-pin.md)
-- 扩充功能
+- **扩充功能**
   - [Google 电子表格](education/extension/google-spreadsheet.md)
   - [气象信息](education/extension/weather.md)
   - [网络广播](education/extension/broadcast.md)
   - [LINE 聊天操控](education/extension/line.md)
-- 基本套件包
+- **基本套件包**
   - [红外线发射＆接收](education/extension-basic-package/ir.md)
   - [超音波传感器](education/extension-basic-package/ultrasonic.md)
   - [伺服马达](education/extension-basic-package/servo.md)
