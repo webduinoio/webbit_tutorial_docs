@@ -15,7 +15,9 @@ I/O 引腳積木包含數位和類比輸入、數位和類比 ( PWM ) 輸出共�
 ![Web:Bit I/O 引腳](../../../../media/zh-tw/education/board/io-pin-03.jpg)
 
 > *I/O 引腳積木必須搭配「開發板」積木，且不支援模擬器*，只支援 USB 與 Wi-Fi 控制。
+>
 > - USB 控制模式為「安裝版編輯器」限定，請參考 [Web:Bit 編輯器](../index.html#software)
+>
 > - Wi-Fi 模式需要開發板連接 Wi-Fi，請參考 [Web:Bit 硬體開發板 ( 初始化設定 )](../info/setup.html)
 
 ## 讀取數值 ( 數位輸入 ){{pin01}}

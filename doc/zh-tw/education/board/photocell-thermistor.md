@@ -9,7 +9,9 @@ Web:Bit 開發板內建兩個光敏電阻，以及一個溫敏電阻，光敏電
 ![Web:Bit 偵測光線＆溫度](../../../../media/zh-tw/education/board/photocell-thermistor-01.jpg)
 
 > *偵測光線和溫度積木必須搭配「開發板」積木*，選擇模擬器，執行後可以使用滑鼠拖拉模擬器的燈泡或火焰，選擇 USB，執行後會透過 USB 連線方式控制實體開發板，選擇 Wi-Fi 則可透過 Wi-Fi 指定 Device ID 操控。
+>
 > - USB 控制模式為「安裝版編輯器」限定，請參考 [Web:Bit 編輯器](../index.html#software)
+>
 > - Wi-Fi 模式需要開發板連接 Wi-Fi，請參考 [Web:Bit 硬體開發板 ( 初始化設定 )](../info/setup.html)
 
 ![Web:Bit 偵測光線＆溫度](../../../../media/zh-tw/education/board/photocell-thermistor-08.jpg)

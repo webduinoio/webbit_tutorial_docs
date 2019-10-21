@@ -43,3 +43,5 @@
   - [伺服馬達](education/extension-basic-package/servo.md)
 - **MoonCar 登月小車**
   - [基本介紹](education/extension-mooncar/mooncar.md)
+  - [基本控制](education/extension-mooncar/control.md)
+  - [循跡自走](education/extension-mooncar/track.md)
