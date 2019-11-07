@@ -45,3 +45,6 @@
   - [基本介紹](education/extension-mooncar/mooncar.md)
   - [基本控制](education/extension-mooncar/control.md)
   - [循跡自走](education/extension-mooncar/track.md)
+  - [顏色識別](education/extension-mooncar/color-tracking.md)
+  - [魔幻 LED](education/extension-mooncar/magic-led.md)
+  - [其他元件](education/extension-mooncar/other.md)
