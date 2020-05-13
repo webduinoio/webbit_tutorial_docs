@@ -41,6 +41,10 @@
   - [紅外線發射＆接收](education/extension-basic-package/ir.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
   - [伺服馬達](education/extension-basic-package/servo.md)
+- **擴充套件包**
+  - [超音波傳感器](education/extension-full-package/ultrasonic.md)
+  - [伺服馬達](education/extension-full-package/servo.md)
+  - [LED](education/extension-full-package/led.md)
 - **MoonCar 登月小車**
   - [基本介紹](education/extension-mooncar/mooncar.md)
   - [基本控制](education/extension-mooncar/control.md)

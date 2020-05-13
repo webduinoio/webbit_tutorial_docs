@@ -4,13 +4,13 @@
 
 > - 如果要使用伺服馬達功能，需搭配 Web:Bit 擴充板，購買方式請參考：[Web:Bit 擴充板](https://store.webduino.io/products/webbit-extension-board?utm_source=webbit&utm_medium=article#_blank)
 >
-> - 本篇教學內容等同「[擴充套件包 - 伺服馬達](../extension-full-package/servo.html)」
+> - 本篇教學內容等同「[基本套件包 - 伺服馬達](../extension-basic-package/servo.html)」
 
 ## 伺服馬達 積木清單
 
 伺服馬達積木可以設定腳位以及指定旋轉的角度 ( 0～180 度 )。
 
-![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-basic-package/servo-01.jpg)
+![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-full-package/servo-01.jpg)
 
 > *伺服馬達積木必須搭配「開發板」積木，且不支援模擬器*，只支援 USB 與 Wi-Fi 控制。
 >
@@ -24,13 +24,13 @@
 
 > 注意，因 Web:Bit 擴充板輸出電壓為 3.3V，請確認伺服馬達為支援 3.3V 的型號。
 
-![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-basic-package/servo-02.jpg)
+![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-full-package/servo-02.jpg)
 
 ## 改變旋轉角度
 
 使用「點擊小怪獸」的積木，設定點擊綠色小怪獸時伺服馬達旋轉至 180 度，點擊紅色小怪獸時伺服馬達旋轉至 0 度，程式執行後，就可以透過滑鼠點擊小怪獸控制伺服馬達。
 
-![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-basic-package/servo-03.gif)
+![Web:Bit 伺服馬達](../../../../media/zh-tw/education/extension-full-package/servo-03.gif)
 
 
 
