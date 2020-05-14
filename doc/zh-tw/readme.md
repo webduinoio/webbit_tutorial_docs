@@ -46,6 +46,8 @@
   - [伺服馬達](education/extension-full-package/servo.md)
   - [LED](education/extension-full-package/led.md)
   - [繼電器](education/extension-full-package/relay.md)
+  - [光敏電阻](education/extension-full-package/photocell.md)
+  - [可變電阻](education/extension-full-package/pot.md)
 - **MoonCar 登月小車**
   - [基本介紹](education/extension-mooncar/mooncar.md)
   - [基本控制](education/extension-mooncar/control.md)

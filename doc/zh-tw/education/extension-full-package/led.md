@@ -2,6 +2,8 @@
 
 LED 是發光二極體 ( Light-emitting diode ) 的縮寫，是一種能發光的半導體電子元件，目前能夠發出可見光、紅外光一直到紫外光的光線，近年來更逐漸發展至各種照明用途，本篇所使用的 LED 是專門用於小型電子設備的材料，透過 Web:Bit 發送對應的訊號即可進行控制。
 
+> 如果要使用 LED，需搭配 Web:Bit 擴充板，購買方式請參考：[Web:Bit 擴充板](https://store.webduino.io/products/webbit-extension-board?utm_source=webbit&utm_medium=article#_blank)
+
 ## LED 積木清單
 
 LED 積木可以設定腳位以及指定狀態為 ON 或 OFF。
@@ -10,7 +12,7 @@ LED 積木可以設定腳位以及指定狀態為 ON 或 OFF。
 
 ## LED 接線圖
 
-如果是使用擴充套件包的 LED 模組，將 S 訊號腳連接 Web:Bit 擴充板的 1 號腳，VCC 連接 3V3，GND 連接 GND。
+使用擴充套件包的 LED 模組，將 S 訊號腳連接 Web:Bit 擴充板的 1 號腳，VCC 連接 3V3，GND 連接 GND。
 
 ![LED](../../../../media/zh-tw/education/extension-full-package/led-02.jpg)
 
