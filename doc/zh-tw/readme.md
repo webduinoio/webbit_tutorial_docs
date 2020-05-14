@@ -43,8 +43,10 @@
   - [伺服馬達](education/extension-basic-package/servo.md)
 - **擴充套件包**
   - [超音波傳感器](education/extension-full-package/ultrasonic.md)
+  - [溫濕度感測器](education/extension-full-package/dht11.md)
   - [伺服馬達](education/extension-full-package/servo.md)
   - [LED](education/extension-full-package/led.md)
+  - [三色 LED](education/extension-full-package/rgbled.md)
   - [繼電器](education/extension-full-package/relay.md)
   - [光敏電阻](education/extension-full-package/photocell.md)
   - [可變電阻](education/extension-full-package/pot.md)
