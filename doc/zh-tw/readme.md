@@ -44,6 +44,7 @@
 - **擴充套件包**
   - [超音波傳感器](education/extension-full-package/ultrasonic.md)
   - [溫濕度感測器](education/extension-full-package/dht11.md)
+  - [聲音感測器](education/extension-full-package/sound.md)
   - [伺服馬達](education/extension-full-package/servo.md)
   - [LED](education/extension-full-package/led.md)
   - [三色 LED](education/extension-full-package/rgbled.md)
