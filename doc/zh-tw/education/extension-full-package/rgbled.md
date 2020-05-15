@@ -21,7 +21,7 @@
 
 放入「當滑鼠點擊怪獸」的積木，設定點擊綠色怪獸就會顯示綠色、點擊紅色怪獸顯示紅色、點擊綠色怪獸顯示綠色、點擊藍色怪獸顯示藍色，程式執行後，點擊對應的怪獸就會出現對應的顏色。
 
-> 範例：[點擊小怪獸改變三色 LED 顏色](https://webbit.webduino.io/blockly/?demo=default#YqKrZ8QQJEKR4)
+> 範例：[點擊小怪獸改變三色 LED 顏色](https://webbit.webduino.io/blockly/?demo=default#YqKrZ8QQJEKR4#_blank)
 
 ![LED](../../../../media/zh-tw/education/extension-full-package/rgb-led-03.jpg)
 

@@ -4,14 +4,14 @@
 
 > 如果要使用溫濕度感測器，需搭配 Web:Bit 擴充板，購買方式請參考：[Web:Bit 擴充板](https://store.webduino.io/products/webbit-extension-board?utm_source=webbit&utm_medium=article#_blank)
 
-## 溫濕度感測器積木清單
+## 溫濕度感測器 積木清單
 
 溫濕度感測器積木可以透過指定的腳位，讀取溫度 ( 攝氏 ) 與濕度 ( % )。
 
 ![溫濕度感測器](../../../../media/zh-tw/education/extension-full-package/dht11-01.jpg)
 
 
-## 溫濕度感測器接線圖
+## 溫濕度感測器 接線圖
 
 將擴充套件包裡的溫濕度感測器的 S 連接 Web:Bit 開發板 1 號腳，VCC 連接 3.3V，GND 連接 GND。
 

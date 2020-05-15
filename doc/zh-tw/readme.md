@@ -53,6 +53,7 @@
   - [超音波傳感器](education/extension-full-package/ultrasonic.md)
   - [溫濕度感測器](education/extension-full-package/dht11.md)
   - [土壤濕度偵測](education/extension-full-package/soil.md)
+  - [紅外線發射＆接收](education/extension-full-package/ir.md)
 - **MoonCar 登月小車**
   - [基本介紹](education/extension-mooncar/mooncar.md)
   - [基本控制](education/extension-mooncar/control.md)

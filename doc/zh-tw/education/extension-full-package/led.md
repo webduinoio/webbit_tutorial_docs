@@ -26,7 +26,7 @@ LED 積木可以設定腳位以及指定狀態為 ON 或 OFF。
 
 放入「當滑鼠點擊怪獸」的積木，設定點擊綠色怪獸就會點亮 LED ( 狀態 ON )，點擊紅色怪獸時關閉 LED ( 狀態 OFF )，點擊黃色怪獸就讓 LED 閃爍 ( 延續上方 LED 閃爍的積木程式 )，完成後在所有怪獸的點擊積木裡，需要額外放入「停止所有迴圈」的積木，如此才能在 LED 亮起或熄滅時停止閃爍，也能避免閃爍迴圈重複疊加的情形發生。
 
-> 範例：[點擊小怪獸控制 LED](https://webbit.webduino.io/blockly/?demo=default#8qMJ9M0Wj8D3W)
+> 範例：[點擊小怪獸控制 LED](https://webbit.webduino.io/blockly/?demo=default#8qMJ9M0Wj8D3W#_blank)
 
 ![LED](../../../../media/zh-tw/education/extension-full-package/led-04.jpg)
 
@@ -34,7 +34,7 @@ LED 積木可以設定腳位以及指定狀態為 ON 或 OFF。
 
 如果要使用 Web:Bit 開發版的按鈕控制 LED 燈，可以將上方小怪獸的積木，換成按鈕開關的積木，按下 A 的時候會點亮 LED ( 狀態 ON )，按下 B 就關閉 LED ( 狀態 OFF )，A 和 B 同時按下就讓 LED 閃爍 ( 延續上方 LED 閃爍的積木程式 )
 
-> 範例：[使用 Web:Bit 按鈕開關控制 LED](https://webbit.webduino.io/blockly/?demo=default#py6lPpWKDzXqZ)
+> 範例：[使用 Web:Bit 按鈕開關控制 LED](https://webbit.webduino.io/blockly/?demo=default#py6lPpWKDzXqZ#_blank)
 
 ![LED](../../../../media/zh-tw/education/extension-full-package/led-04.jpg)
 
