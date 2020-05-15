@@ -1,35 +1,35 @@
 # Web:Bit MoonCar 基本控制
 
-MoonCar 是專門為 Web:Bit 開發板所設計，內建多種功能元件，可用來開發各種應用的自走車。這邊文章可以讓我們先來了解 MoonCar 的基本控制方式，並透過畫面上的小怪獸們來操控它。
+MoonCar 是专门为 Web:Bit 开发板所设计，内建多种功能元件，可用来开发各种应用的自走车。这边文章可以让我们先来了解 MoonCar 的基本控制方式，并透过画面上的小怪兽们来操控它。
 
-> Wi-Fi 模式需要開發板連接 Wi-Fi，請參考： [Web:Bit 硬體開發板 ( 初始化設定 )](https://webbit.webduino.io/tutorials/doc/zh-tw/education/info/setup.html)。
+> Wi-Fi 模式需要开发板连接 Wi-Fi，请参考： [Web:Bit 硬体开发板 ( 初始化设定 )](https://webbit.webduino.io/tutorials/doc/zh-cn/education/info/setup.html)。
 
-## 積木清單
+## 积木清单
 
-透過基本動作操控積木，可以用來操控車子的前後左右等動作。
+透过基本动作操控积木，可以用来操控车子的前后左右等动作。
 
-![MoonCar 登月小車](../../../../media/zh-tw/education/extension-mooncar/control-01.jpg)
+![MoonCar 登月小车](../../../../media/zh-cn/education/extension-mooncar/control-01.jpg)
 
-另一個可用來設定輪子馬達轉速的積木，除了可以因應需要調整車子移動速度外，還可以因為特殊狀況需要，來個別設定左右輪的馬達轉速。
+另一个可用来设定轮子马达转速的积木，除了可以因应需要调整车子移动速度外，还可以因为特殊状况需要，来个别设定左右轮的马达转速。
 
-![MoonCar 登月小車](../../../../media/zh-tw/education/extension-mooncar/control-02.jpg)
+![MoonCar 登月小车](../../../../media/zh-cn/education/extension-mooncar/control-02.jpg)
 
-## 控制小車動作（ 使用小怪獸 ）
+## 控制小车动作（ 使用小怪兽 ）
 
-為了製作一個可以簡單操控 MoonCar 動作的互動介面，我們會先把各個怪獸之間的位置擺放如下：
+为了制作一个可以简单操控 MoonCar 动作的互动介面，我们会先把各个怪兽之间的位置摆放如下：
 
-![MoonCar 登月小車](../../../../media/zh-tw/education/extension-mooncar/control-03.jpg)
+![MoonCar 登月小车](../../../../media/zh-cn/education/extension-mooncar/control-03.jpg)
 
-接著我們可以運用「怪獸控制」裡的「滑鼠觸碰怪獸」的積木，來設計出 MoonCar 的操控介面。
+接着我们可以运用「怪兽控制」里的「滑鼠触碰怪兽」的积木，来设计出 MoonCar 的操控介面。
 
-![MoonCar 登月小車](../../../../media/zh-tw/education/extension-mooncar/control-04.jpg)
+![MoonCar 登月小车](../../../../media/zh-cn/education/extension-mooncar/control-04.jpg)
 
-執行後，你就可以透過把滑鼠移到各怪獸身上的方式，來操控 MoonCar 的動作。當滑鼠游標從怪獸身上移開時，MoonCar 就會停止。
+执行后，你就可以透过把滑鼠移到各怪兽身上的方式，来操控 MoonCar 的动作。当滑鼠游标从怪兽身上移开时，MoonCar 就会停止。
 
-> - 前進：綠色怪獸
+> - 前进：绿色怪兽
 >
-> - 後退：黃色怪獸
+> - 后退：黄色怪兽
 >
-> - 左轉：紅色怪獸
+> - 左转：红色怪兽
 >
-> - 右轉：藍色怪獸
+> - 右转：蓝色怪兽
