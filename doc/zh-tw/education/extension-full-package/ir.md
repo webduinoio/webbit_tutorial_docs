@@ -31,11 +31,11 @@
 
 ![紅外線發射＆接收](../../../../media/zh-tw/education/extension-full-package/ir-05.jpg)
 
-## 紅外線搖空氣，遙控燈號
+## 紅外線遙控器，遙控燈號
 
 延續上方的程式如果搭配「邏輯判斷」的積木，就能夠透過紅外線遙控器遙控 LED 點矩陣的圖案顯示，程式執行後，在收到 A12345678 訊號時顯示紅色笑臉，收到 B87654321 訊號時顯示綠色方塊。
 
-> 範例：[紅外線搖空氣，遙控燈號](https://webbit.webduino.io/blockly/?demo=default#ayxv98l9P7JqM)
+> 範例：[紅外線遙控器，遙控燈號](https://webbit.webduino.io/blockly/?demo=default#ayxv98l9P7JqM)
 
 ![紅外線發射＆接收](../../../../media/zh-tw/education/extension-full-package/ir-06.jpg)
 
