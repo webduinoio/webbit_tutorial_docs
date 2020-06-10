@@ -5,7 +5,7 @@
   - [编辑器 ( 安装版工具列 )](education/info/toolbar.md)
   - [编辑器 ( 操作介面 )](education/info/interface.md)
 - **基本功能**
-  - [变数](education/basic/variables.md) 
+  - [变数](education/basic/variables.md)
   - [逻辑](education/basic/logic.md)
   - [重复](education/basic/loop.md)
   - [数学](education/basic/math.md)
@@ -61,3 +61,12 @@
   - [颜色识别](education/extension-mooncar/color-tracking.md)
   - [魔幻 LED](education/extension-mooncar/magic-led.md)
   - [其他元件](education/extension-mooncar/other.md)
+
+-----
+
+- [凯比物联网教室](kebbi/index.md)
+- **设定与启用**
+  - [Wi-Fi 设定](kebbi/setting/wifi.md)
+  - [授权启用与设定](kebbi/setting/authorize.md)
+  - [程式部署](kebbi/setting/deploy.md)
+
