@@ -69,4 +69,6 @@
   - [Wi-Fi 設定](kebbi/setting/wifi.md)
   - [授權啟用與設定](kebbi/setting/authorize.md)
   - [程式部署](kebbi/setting/deploy.md)
+- **英語會話**
+  - [使用 Google 試算表](kebbi/english/spread-sheet.md)
 
