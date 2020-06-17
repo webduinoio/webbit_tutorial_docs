@@ -71,4 +71,5 @@
   - [程式部署](kebbi/setting/deploy.md)
 - **英語會話**
   - [使用 Google 試算表](kebbi/english/spread-sheet.md)
+  - [使用程式積木](kebbi/english/blockly.md)
 
