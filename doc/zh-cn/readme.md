@@ -69,6 +69,14 @@
   - [Wi-Fi 设定](kebbi/setting/wifi.md)
   - [授权启用与设定](kebbi/setting/authorize.md)
   - [程式部署](kebbi/setting/deploy.md)
+- **操控凯比机器人**
+  - [移动](kebbi/robot/move.md)
+  - [肢体](kebbi/robot/joint.md)
+  - [灯光](kebbi/robot/light.md)
+  - [表情](kebbi/robot/face.md)
+  - [声音](kebbi/robot/sound.md)
+  - [动画表演](kebbi/robot/performance.md)
+  - [感应](kebbi/robot/detect.md)
 - **英语会话**
   - [使用 Google 试算表](kebbi/english/spread-sheet.md)
   - [使用程式积木](kebbi/english/blockly.md)
