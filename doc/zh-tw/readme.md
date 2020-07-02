@@ -62,7 +62,6 @@
   - [魔幻 LED](education/extension-mooncar/magic-led.md)
   - [其他元件](education/extension-mooncar/other.md)
 
------
 
 - [凱比物聯網教室](kebbi/index.md)
 - **設定與啟用**
