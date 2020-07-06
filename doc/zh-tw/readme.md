@@ -37,6 +37,7 @@
   - [氣象資訊](education/extension/weather.md)
   - [網路廣播](education/extension/broadcast.md)
   - [LINE 聊天操控](education/extension/line.md)
+  - [Youtube](education/extension/youtube.md)
 - **基本套件包**
   - [伺服馬達](education/extension-basic-package/servo.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
