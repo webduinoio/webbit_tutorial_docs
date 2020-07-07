@@ -39,6 +39,7 @@
   - [LINE 聊天操控](education/extension/line.md)
   - [Youtube](education/extension/youtube.md)
   - [錄音＆音量](education/extension/microphone.md)
+  - [人臉＆顏色追蹤](education/extension/tracking.md)
 - **基本套件包**
   - [伺服馬達](education/extension-basic-package/servo.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
