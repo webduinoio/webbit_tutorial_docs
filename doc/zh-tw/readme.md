@@ -40,6 +40,7 @@
   - [Youtube](education/extension/youtube.md)
   - [錄音＆音量](education/extension/microphone.md)
   - [人臉＆顏色追蹤](education/extension/tracking.md)
+  - [視訊偵測](education/extension/video-detect.md)
 - **基本套件包**
   - [伺服馬達](education/extension-basic-package/servo.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
