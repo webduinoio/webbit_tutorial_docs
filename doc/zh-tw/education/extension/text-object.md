@@ -21,7 +21,7 @@
 設定 x 為 100、y 為 200，按下執行，可以看到 Webduino 文字在原點往右 100、往上 200
 的位置。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-03.jpg)
 
 > - 若不使用「文字定位」積木，文字會預設位置在小怪獸互動舞台的**左上角**。
 >
