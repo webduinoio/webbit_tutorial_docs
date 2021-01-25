@@ -1,4 +1,4 @@
-# Web:Bit LINE 聊天操控
+# Web:Bit 擴充功能：LINE 聊天操控
 
 Web:Bit 編輯器預設 LINE 即時通訊相關功能，除了支援 LINE Notify 的推播，更可以接收 LINE 的聊天訊息，透過聊天的方式操控 Web:Bit 開發板或和小怪獸進行互動。
 

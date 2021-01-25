@@ -1,4 +1,4 @@
-# Web:Bit Google 試算表
+# Web:Bit 擴充功能：Google 試算表
 
 透過 Web:Bit 編輯器的 Google 試算表功能，只需要簡單幾個步驟，就能將 Google 試算表當作資料庫，儲存傳感器所接收到的訊號數值，或透過開發板顯示試算表讀取的資料。
 
