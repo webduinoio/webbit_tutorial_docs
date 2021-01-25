@@ -12,9 +12,7 @@
 
 「顯示文字」積木可以配合文字積木，直接將輸入好的文字顯示在小怪獸互動舞台中。
 
-![Web:Bit 文字]()
-
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-02.jpg)
 
 ## 文字定位{{text-object02}}
 
