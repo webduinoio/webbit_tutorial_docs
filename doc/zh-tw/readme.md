@@ -84,3 +84,7 @@
   - [使用 Google 試算表](kebbi/english/spread-sheet.md)
   - [使用程式積木](kebbi/english/blockly.md)
 
+- [常見問題](faq/index.md)
+  - [連線問題](faq/faq-connect.md)
+  - [Web:Bit 相關問題](faq/faq-webbit.md)
+  - [其它問題](faq/faq-others.md)
