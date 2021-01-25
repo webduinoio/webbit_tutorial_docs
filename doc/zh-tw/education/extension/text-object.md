@@ -18,10 +18,12 @@
 
 「文字定位」積木將文字以小怪獸互動舞台的左下角為原點，透過設定 x、y 的數值，將文字顯示在 xy 座標中的位置。
 
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-03.jpg)
+
 設定 x 為 100、y 為 200，按下執行，可以看到 Webduino 文字在原點往右 100、往上 200
 的位置。
 
-![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-03.jpg)
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-04.jpg)
 
 > - 若不使用「文字定位」積木，文字會預設位置在小怪獸互動舞台的**左上角**。
 >
@@ -31,11 +33,11 @@
 
 「文字大小」積木可以改變文字的大小，預設為 16 點。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-05.jpg)
 
 將文字大小改為 50 點，按下執行，可以看到 Webduino 文字變大。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-06.jpg)
 
 ## 文字行距{{text-object04}}
 
@@ -69,6 +71,8 @@
 
 將「文字透明度」積木搭配「文字顏色」積木，設定透明度為 70，按下執行，顯示文字的顏色會比原本顏色較淺。
 
+![Web:Bit 文字]()
+
 ## 文字階層{{text-object07}}
 
 「文字階層」積木能夠控制文字的上下位置，
@@ -87,6 +91,8 @@
 ![Web:Bit 文字]()
 
 先使用「顯示文字」積木設定文字，再後方加上「隱藏文字」積木，按下執行，可以看到原本預設的文字直接隱藏。
+
+![Web:Bit 文字]()
 
 ## 文字還原預設值{{text-object09}}
 
