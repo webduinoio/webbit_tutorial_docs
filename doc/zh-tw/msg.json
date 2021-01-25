@@ -3,8 +3,12 @@
     "title": "Web:Bit 教學手冊",
     "home": "首頁",
     "menu": {
+      "webbit":"Web:Bit 教育版",
+      "webbitURL":"/tutorials/doc/zh-tw/education/index.html",
+      "kebbi":"凱比物聯網教室",
+      "kebbiURL":"/tutorials/doc/zh-tw/kebbi/index.html",
       "faq": "常見問題",
-      "faqURL": "#",
+      "faqURL": "/tutorials/doc/zh-tw/faq/index.html",
       "buy": "購買套件",
       "buyURL": "https://store.webduino.io/categories/all?utm_source=tutorials&utm_medium=topmenu"
     }

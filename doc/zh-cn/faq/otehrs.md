@@ -6,7 +6,7 @@
 
 ### 2. 如何购买 Web:Bit？{{others2}}
 
-我们拥有自己的购物网站，可以直接在 [Web:Bit 商品资讯](https://store.webduino.io/products/webduino-bit) 找到 Web:Bit 及相关产品。
+我们拥有自己的购物网站，可以直接在 [Web:Bit 商品资讯](https://store.webduino.io/products/webduino-bit#_blank) 找到 Web:Bit 及相关产品。
 
 ### 3. 为什么停止执行程式后，LED 灯不会熄灭？{{others3}}
 
@@ -16,7 +16,7 @@
 ### 4. 我该如何找到 MoonCar 的教学手册？{{others4}}
 
 MoonCar 教学手册分类在 Web:Bit 教学手册的目录中。
-欢迎参考 [MoonCar 教学手册](https://webbit.webduino.io/tutorials/doc/zh-cn/education/extension-mooncar/mooncar.html#_blank)。
+欢迎参考 [MoonCar 教学手册](h/tutorials/doc/zh-cn/education/extension-mooncar/mooncar.html)。
 
 ### 5. MoonCar 辨识颜色时间为什么是设定 0.3 秒？{{others5}}
 
