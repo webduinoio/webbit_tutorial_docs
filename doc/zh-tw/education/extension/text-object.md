@@ -67,22 +67,22 @@
 
 「文字透明度」積木可以改變文字的透明度，數值可以是 0 ~ 100，0 為完全透明、100 為原始顏色 ( 透明度不變 )。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-11.jpg)
 
 將「文字透明度」積木搭配「文字顏色」積木，設定透明度為 70，按下執行，顯示文字的顏色會比原本顏色較淺。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-12.jpg)
 
 ## 文字階層{{text-object07}}
 
 「文字階層」積木能夠控制文字的上下位置，
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-13.jpg)
 
 在預設情況下執行，文字會被小怪獸覆蓋。
 若放入「文字階層」積木並設定*移到最上層*，執行後可以看到文字顯示在小怪獸的上方。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-14.jpg)
 
 ## 隱藏文字{{text-object08}}
 
