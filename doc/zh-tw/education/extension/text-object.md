@@ -88,11 +88,11 @@
 
 「隱藏文字」積木和設定為全透明不同，是直接將設定的文字取消顯示。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-15.jpg)
 
 先使用「顯示文字」積木設定文字，再後方加上「隱藏文字」積木，按下執行，可以看到原本預設的文字直接隱藏。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-16.jpg)
 
 ## 文字還原預設值{{text-object09}}
 
@@ -107,17 +107,17 @@
 - 階層：預設 ( 小怪獸下方 )
 - 隱藏：正常顯示
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-17.jpg)
 
 先將文字做不同的變化設定，可以看到文字的樣式變化。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-18.jpg)
 
 在下方加入「文字還原預設值」積木，按下執行，可以看到剛剛做的變化設定都還原成未做任何變化的文字。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-19.jpg)
 
 若是在「文字還原預設值」積木後下方再加入其它積木，執行後就會再次改變文字樣式。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-20.jpg)
 
