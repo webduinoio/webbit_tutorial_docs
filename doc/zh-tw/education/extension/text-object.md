@@ -44,8 +44,8 @@
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-07.jpg)
 
-使用「建立字串」積木，在 2 個文字積木之間放入「換行」積木。
-放入「文字行距」積木設定為 10 點，按下執行，可以看到 2 段文字之間的距離縮短了。
+這裡為了展示行距的效果，需要使用「建立字串」積木。  
+在 2 個文字積木之間放入「換行」積木。放入「文字行距」積木設定為 10 點，按下執行，可以看到 2 段文字之間的距離縮短了。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-08.jpg)
 
@@ -58,7 +58,7 @@
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-09.jpg)
 
-放入「文字顏色」積木，選擇顏色，按下執行後可以看到 Webduino 文字的顏色改變。
+放入「文字顏色」積木，選擇顏色，按下執行後可以看到 Webduino 文字的顏色變成紅色。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-10.jpg)
 
@@ -74,11 +74,11 @@
 
 ## 文字階層{{text-object07}}
 
-「文字階層」積木能夠控制文字的上下順序位置。
+「文字階層」積木能夠控制文字的上下順序位置，決定文字是否會被小怪獸遮蔽。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-13.jpg)
 
-在預設情況下執行，文字會被小怪獸覆蓋。
+在預設情況下執行，文字會被小怪獸覆蓋。  
 若放入「文字階層」積木並設定*移到最上層*，執行後可以看到文字顯示在小怪獸的上方。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-14.jpg)
@@ -95,7 +95,7 @@
 
 ## 文字還原預設值{{text-object09}}
 
-「文字還原預設值」積木可以把前面程式積木對文字做的變化都還原成預設值，
+「文字還原預設值」積木可以把前面程式積木對文字做的任何變化都還原成預設值，
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-17.jpg)
 
