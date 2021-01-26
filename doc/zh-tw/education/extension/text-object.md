@@ -43,12 +43,12 @@
 
 「文字行距」積木可以改變文字的行距，在不使用「文字行距」積木的情況下，預設的行距為 normal。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-07.jpg)
 
 使用「建立字串」積木，在 2 個文字積木之間放入「換行」積木。
 放入「文字行距」積木設定為 10 點，按下執行，可以看到 2 段文字之間的距離縮短了。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-08.jpg)
 
 > 行距 normal 會隨著文字大小而改變。
 在不改變文字大小的情況下，文字的行距預設為 18 點。
@@ -57,11 +57,11 @@
 
 「文字顏色」積木可以改變文字的顏色，搭配前面介紹的「顏色」積木能夠做出更多文字顏色的變化。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-09.jpg)
 
 放入「文字顏色」積木，選擇顏色，按下執行後可以看到 Webduino 文字的顏色改變。
 
-![Web:Bit 文字]()
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-10.jpg)
 
 ## 文字透明度{{text-object06}}
 
