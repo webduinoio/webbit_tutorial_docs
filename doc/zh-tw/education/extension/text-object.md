@@ -16,7 +16,7 @@
  
 ## 文字定位{{text-object02}}
 
-「文字定位」積木將文字以小怪獸互動舞台的左下角為原點 (0,0)，透過設定 x、y 的數值，將文字顯示在 xy 座標中的位置。
+「文字定位」積木以小怪獸互動舞台的左下角為原點 (0,0)，透過設定 x、y 的數值，將文字顯示在 xy 座標中的位置。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-03.jpg)
 
@@ -30,7 +30,7 @@
 
 ## 文字大小{{text-object03}}
 
-「文字大小」積木可以改變文字的大小，預設為 16 點。
+「文字大小」積木可以改變文字的字體大小，預設為 16 點。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-05.jpg)
 
@@ -45,7 +45,7 @@
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-07.jpg)
 
 這裡為了展示行距的效果，需要使用「建立字串」積木。  
-在 2 個文字積木之間放入「換行」積木。放入「文字行距」積木設定為 10 點，按下執行，就可以看到 2 段文字之間的距離縮短了。
+在 2 個文字積木之間放入「換行」積木。放入「文字行距」積木設定為 50 點，按下執行，就可以看到 2 段文字之間的距離加大了。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-08.jpg)
 
@@ -54,11 +54,11 @@
 
 ## 文字顏色{{text-object05}}
 
-「文字顏色」積木可以改變文字的顏色，搭配前面介紹的「顏色」積木能夠做出更多文字顏色的變化。
+「文字顏色」積木可以改變文字的顏色，搭配前面介紹的「顏色」積木能夠做出更多的文字顏色變化。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-09.jpg)
 
-放入「文字顏色」積木，選擇顏色，按下執行後可以看到 Webduino 文字的顏色變成紅色。
+放入「文字顏色」積木，選擇顏色，按下執行後可以看到 Webduino 的文字顏色變成紅色。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-10.jpg)
 
@@ -68,9 +68,9 @@
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-11.jpg)
 
-將「文字透明度」積木搭配「文字顏色」積木，設定透明度為 70，按下執行，顯示文字的顏色會比原本顏色較淺。
+將「文字透明度」積木搭配「文字顏色」積木，設定透明度為 30，按下執行，顯示文字的顏色會比原本顏色較淺。
 
-![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-12.jpg)
+![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-12.gif)
 
 ## 文字階層{{text-object07}}
 
@@ -95,7 +95,7 @@
 
 ## 文字還原預設值{{text-object09}}
 
-「文字還原預設值」積木可以把前面程式積木對文字做的任何變化都還原成預設值，
+「文字還原預設值」積木可以把前面的程式積木對文字做的任何變化都還原成預設值，
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-17.jpg)
 
@@ -108,7 +108,7 @@
 > - 階層：預設 ( 小怪獸下方 )
 > - 隱藏：正常顯示
 
-先將文字做不同的變化設定，可以看到文字的樣式變化。
+先將文字做不同的變化設定，讓文字產生不同的樣式變化。
 
 ![Web:Bit 文字](../../../../media/zh-tw/education/extension/text-object-18.jpg)
 
