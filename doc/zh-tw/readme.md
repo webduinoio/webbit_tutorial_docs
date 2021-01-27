@@ -42,6 +42,7 @@
   - [人臉＆顏色追蹤](education/extension/tracking.md)
   - [視訊偵測](education/extension/video-detect.md)
   - [文字](education/extension/text-object.md)
+  - [圖片](education/extension/picture-object.md)
 - **基本套件包**
   - [伺服馬達](education/extension-basic-package/servo.md)
   - [超音波傳感器](education/extension-basic-package/ultrasonic.md)
