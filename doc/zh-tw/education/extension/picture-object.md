@@ -6,18 +6,20 @@
 
 圖片積木包含圖片來源、圖片樣式、位置、互動、顯示、還原預設值等積木。
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-01.jpg)
 
-## 加入及更換圖片{{picture-object01}}
+## 加入＆更換圖片{{picture-object01}}
 
 「加入圖片」積木及「更換圖片」積木可以控制圖片的來源網址，決定展示哪一張圖片，並且可以將圖片的名稱命名為變數，藉由變數的命名可以讓後面的積木輕鬆控制圖片的樣式和互動。
 
-![Web:Bit 圖片]()  <!-- 展開加入更換 -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-02.jpg)
 
 為了展示更換效果，加入「滑鼠點擊小怪獸」積木，讓執行的時候能夠藉由點擊小怪獸觸發更換圖片。
 在積木執行內放入「更換圖片」積木，將圖片名稱變數改為自己設定的名稱，並更改圖片網址，按下執行，就可以看到滑鼠點擊小怪獸後舞台內的圖片更換了。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-03.jpg) 
+
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-04.gif) <!-- gif -->
 
 > 一次可使用多個「加入圖片」積木，但是不能將多張圖片命名為同一個變數名稱。
 
@@ -25,11 +27,11 @@
 
 「圖片定位」積木是以小怪獸互動舞台的左下角為原點 (0,0)，透過設定 x、y 的數值，將圖片顯示在 xy 座標中的位置。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-05.jpg) 
 
 設定 x 為 100、y 為 100，按下執行，可以看到 Webduino 圖片在原點 ( 小怪獸舞台左下角 ) 往右 100、往上 100 的位置。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-06.jpg) 
 
 > - 因為位置的判定是以 *圖片的中心* 為準，因此當「圖片定位」積木設定成 *x 為 0、y 為 0* 時，圖片的中心剛好位在小怪獸舞台的左下角 ( 座標的原點 )，所以畫面中只會看到圖片的 1/4。
 >
@@ -41,7 +43,7 @@
 
 「圖片移動」積木能夠控制圖片往上下左右四個方向移動，也可以互相搭配，達成往右上、右下、左上、左下移動。透過搭配其它觸發方式，可以在自己設定的時候觸發圖片移動。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-07.jpg) 
 
 放入 2 個「圖片移動」積木，設定往下 200 點、往右 200 點，按下執行，可以看到圖片往右下方移動。
 
