@@ -38,6 +38,7 @@
 > - 若不使用「圖片定位」積木，圖片的預設位置：
     - x 座標 ( 圖片中心的 x 座標 )：原始圖片寬度的一半
     - y 座標 ( 圖片中心的 y 座標 )：原始圖片長度的一半 + 100
+    - 例如 Webduino 圖片的大小為 400*400，那座標就會是 (200,300)
 
 ## 圖片移動{{picture-object03}}
 
@@ -45,9 +46,10 @@
 
 ![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-07.jpg) 
 
+
 放入 2 個「圖片移動」積木，設定往下 200 點、往右 200 點，按下執行，可以看到圖片往右下方移動。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-08.jpg) 
 
 ## 圖片大小{{picture-object04}}
 
@@ -56,23 +58,24 @@
 - 「圖片尺寸設定」積木：若將圖片*尺寸設定為 50%*，會顯示圖片寬度為*原始的 50%*。
 - 「圖片尺寸變化」積木：若設定圖片*尺寸變大 100 點*，會顯示圖片寬度為*原始寬度加上 100 點*。
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-09.jpg)
 
 範例是滑鼠觸碰小怪獸讓圖片改變大小，離開小怪獸後圖片恢復到原始大小。  
 放入「滑鼠接觸小怪獸」積木，設定：  
 - 碰到時執行尺寸變大 150 點  
 - 離開時執行尺寸設定為 100%
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-10.jpg)
 
 按下執行，使用滑鼠觸碰小怪獸，可以看到圖片變大；滑鼠離開時，圖片恢復到原始的大小。
 
-![Web:Bit 圖片]() <!-- gif -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-11.gif)
 
 > - 在 Web:Bit 教育版中的圖片尺寸是 **以寬度為基準**，若圖片尺寸為 100 點，代表圖片寬度為 100 點、高度為符合圖片比例的數值。  
-換句話說，積木中控制圖片的尺寸等於是控制圖片的寬度，並且圖片不會因為尺寸改變而失真。
+( 換句話說，積木中控制圖片的尺寸等於是控制圖片的寬度，並且圖片不會因為尺寸改變而失真。 )
 >
-> - 前面介紹的圖片位置的判定是以 *圖片的中心* 為準，因此圖片尺寸的改變並不會對圖片位置造成影響。( 100% 和 200% 的圖片中心點會在相同位置 )
+> - 前面介紹的圖片位置的判定是以 *圖片的中心* 為準，因此圖片尺寸的改變並不會對圖片位置造成影響。  
+( 例如：100% 和 200% 的圖片中心點會在相同位置 )
 
 ## 圖片旋轉{{picture-object05}}
 
@@ -82,38 +85,39 @@
 - 「圖片右旋轉」積木：以*當下*圖片的角度為基準，圖片中心為圓心，順時針旋轉。
 - 「圖片左旋轉」積木：以*當下*圖片的角度為基準，圖片中心為圓心，逆時針旋轉。
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-12.jpg)
 
 使用「圖片旋轉」積木設定 60 度，可以看到圖片順時針旋轉 60 度。
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-13.jpg)
 
 若是想要達到不斷觸發旋轉的效果，可以使用「怪獸控制」積木搭配「圖片左右旋轉」積木。  
 放入「滑鼠點擊小怪獸」積木，設定執行使用「圖片左旋轉」積木 10 度，可以看到每次點擊小怪獸，圖片都會逆時針旋轉 10 度。
 
-![Web:Bit 圖片]() <!-- gif -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-14.gif)
 
 ## 圖片透明度{{picture-object06}}
 
 「圖片透明度」積木可以改變圖片的透明度，數值可以是 0 ~ 100，0 為完全透明、100 為原始顏色 ( 透明度不變 )。
 
-![Web:Bit 圖片]()
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-15.jpg)
 
 這裡嘗試將「圖片透明度」積木搭配「怪獸控制」積木，讓滑鼠觸碰到綠色小怪獸的時候能夠改變圖片的透明度。  
 設定滑鼠觸碰時，圖片透明度為 30；滑鼠離開時，圖片透明度為 100。按下執行，可以看到圖片透明度會隨著滑鼠觸碰小怪獸而變化。
 
-![Web:Bit 圖片]() <!-- gif -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-16.gif)
+
 
 ## 圖片階層{{picture-object07}}
 
 「圖片階層」積木能夠控制圖片的上下順序位置，決定圖片是否會被小怪獸遮蔽。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-17.jpg)
 
 在預設情況下執行，圖片會被小怪獸覆蓋。  
 若放入「圖片階層」積木並設定*移到最上層*，執行後可以看到圖片顯示在小怪獸的上方。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-18.jpg)
 
 ## 滑鼠點擊圖片{{picture-object08}}
 
@@ -121,12 +125,12 @@
 
 > 滑鼠點擊積木「*不需要放在重複迴圈內*」就可重複偵測。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-19.jpg)
 
 為了展示點擊效果，加入「小怪獸講話」積木，讓執行的時候能夠藉由點擊圖片讓小怪獸講話。  
 在「滑鼠點擊圖片」積木執行內放入「小怪獸講話」積木，按下執行，就可以看到滑鼠點擊圖片後小怪獸說話了。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-20.jpg)
 
 ## 滑鼠觸碰圖片{{picture-object09}}
 
@@ -134,11 +138,11 @@
 
 > 注意，離開的行為一定會接續在碰觸之後，滑鼠碰觸積木「*不需要放在重複迴圈內*」就可重複偵測。
 
-![Web:Bit 圖片]() 
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-21.jpg)
 
 下圖的例子，在滑鼠碰觸到圖片時，圖片尺寸會變大，滑鼠離開後圖片又恢復原始大小。
 
-![Web:Bit 圖片]() <!-- gif -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-22.gif)
 
 ## 圖片數值{{picture-object10}}
 
