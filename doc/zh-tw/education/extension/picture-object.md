@@ -19,7 +19,7 @@
 
 ![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-03.jpg) 
 
-![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-04.gif) <!-- gif -->
+![Web:Bit 圖片](../../../../media/zh-tw/education/extension/picture-object-04.gif) 
 
 > 一次可使用多個「加入圖片」積木，但是不能將多張圖片命名為同一個變數名稱。
 
