@@ -86,6 +86,9 @@
 - **英語會話**
   - [使用 Google 試算表](kebbi/english/spread-sheet.md)
   - [使用程式積木](kebbi/english/blockly.md)
+- **影像辨識**
+  - [影像辨識](kebbi/imagemlDetect/training.md)
+  - [影像分類](kebbi/imagemlDetect/blockly.md)
 
 
 - [常見問題](faq/index.md)
