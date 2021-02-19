@@ -86,6 +86,9 @@
 - **英语会话**
   - [使用 Google 试算表](kebbi/english/spread-sheet.md)
   - [使用程式积木](kebbi/english/blockly.md)
+- **影像辨识**
+  - [影像训练](kebbi/imagemlDetect/training.md)
+  - [影像分类](kebbi/imagemlDetect/blockly.md)
 
 - [常见问题](faq/index.md)
   - [连线问题](faq/faq-connect.md)
