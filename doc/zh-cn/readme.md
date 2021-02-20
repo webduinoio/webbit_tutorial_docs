@@ -41,6 +41,9 @@
   - [录音＆音量](education/extension/microphone.md)
   - [人脸＆颜色追踪](education/extension/tracking.md)
   - [视讯侦测](education/extension/video-detect.md)
+  - [文字](education/extension/text-object.md)
+  - [图片](education/extension/picture-object.md)
+  - [PM2.5 感测器](education/extension/pm25.md)
 - **基本套件包**
   - [伺服马达](education/extension-basic-package/servo.md)
   - [超音波传感器](education/extension-basic-package/ultrasonic.md)
@@ -83,6 +86,9 @@
 - **英语会话**
   - [使用 Google 试算表](kebbi/english/spread-sheet.md)
   - [使用程式积木](kebbi/english/blockly.md)
+- **影像辨识**
+  - [影像训练](kebbi/imagemlDetect/training.md)
+  - [影像分类](kebbi/imagemlDetect/blockly.md)
 
 - [常见问题](faq/index.md)
   - [连线问题](faq/faq-connect.md)
