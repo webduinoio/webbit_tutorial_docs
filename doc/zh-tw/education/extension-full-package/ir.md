@@ -14,7 +14,6 @@
 
 ![紅外線發射＆接收](../../../../media/zh-tw/education/extension-full-package/ir-01.jpg)
 
-
 ## 紅外線接收 接線圖
 
 使用擴充套件包的紅外線接收模組，將 S 訊號腳連接 Web:Bit 擴充板的 1 號腳，VCC 連接 3V3，GND 連接 GND。
