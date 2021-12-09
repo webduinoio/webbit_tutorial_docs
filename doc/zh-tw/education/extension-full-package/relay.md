@@ -39,6 +39,6 @@
 
 如果要使用 Web:Bit 開發板的按鈕控制繼電器，可以將上方小怪獸的積木，換成按鈕開關的積木，按下 A 的時候會將繼電器狀態設定為 ON，按下 B 就設定為 OFF )，執行程式後就可以透過開發板的按鈕開關來控制繼電器。
 
-> 範例：[使用 Web:Bit 按鈕開關控制繼電器](https://webbit.webduino.io/blockly/?demo=default#EqdrzX5mr86y#_blank6)
+> 範例：[使用 Web:Bit 按鈕開關控制繼電器](https://webbit.webduino.io/blockly/#Myoddo9mMkARv#_blank)
 
 ![繼電器](../../../../media/zh-tw/education/extension-full-package/relay-06.jpg)

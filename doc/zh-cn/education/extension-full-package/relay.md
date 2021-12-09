@@ -39,6 +39,6 @@
 
 如果要使用 Web:Bit 开发板的按钮控制继电器，可以将上方小怪兽的积木，换成按钮开关的积木，按下 A 的时候会将继电器状态设定为 ON，按下 B 就设定为 OFF )，执行程式后就可以透过开发板的按钮开关来控制继电器。
 
-> 范例：[使用 Web:Bit 按钮开关控制继电器](https://webbit.webduino.io/blockly/?demo=default#EqdrzX5mr86y#_blank6)
+> 范例：[使用 Web:Bit 按钮开关控制继电器](https://webbit.webduino.io/blockly/#Myoddo9mMkARv#_blank)
 
 ![继电器](../../../../media/zh-cn/education/extension-full-package/relay-06.jpg)
