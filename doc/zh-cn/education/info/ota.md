@@ -26,6 +26,8 @@
 
 ![Web:Bit 硬体 ( 更新韧体 )](../../../../media/zh-cn/education/info/ota-03.jpg)
 
+> 如果您是使用 Web:Bit V2 开发板，按下「确定」后会出现操作指示画面，按照指示说明，按住「BOOT」按钮，再按一下「RST」按钮，再将「BOOT」按钮放开，即可开始更新。
+
 更新时最上方的讯息文字，会同步显示更新的进度。
 
 ![Web:Bit 硬体 ( 更新韧体 )](../../../../media/zh-cn/education/info/ota-05.jpg)

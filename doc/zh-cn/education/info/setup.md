@@ -2,7 +2,7 @@
 
 使用Web:Bit 之前，最重要的就是进行初始化设定，初始化设定的目的在于让Web:Bit 开发板可以自动上网( Internet )，有了初始化设定，我们也能够自订开发板的显示名称和密码，更可以连上internet 进行远端更新。
 
-> 初始化设定**仅针对透过「Wi-Fi」连线控制**，如果单纯使用「USB 操控」，则可以不需要初始化设定。
+> 需要透过「Wi-Fi」连线控制开发板，才需要先进行初始化设定，如果单纯使用「USB 操控」，则可以不进行初始化设定。
 
 ## 初始化方法 1：使用安装版进行初始化{{step1}}
 
@@ -46,6 +46,8 @@
 ## 初始化方法 2：连线到开发板进行初始化{{step2}}
 
 如果无法使用安装版初始化，也可以透过有 Wi-Fi 连线功能的电脑或行动装置，连接到开发板进行初始化设定，相关步骤如下所示：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zvhc-Sg0t74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 步骤 1、接上电源，输入 WiFi 帐号密码连线
 

@@ -26,6 +26,8 @@
 
 ![Web:Bit 硬體 ( 更新韌體 )](../../../../media/zh-tw/education/info/ota-03.jpg)
 
+> 如果您是使用 Web:Bit V2 開發板，按下「確定」後會出現操作指示畫面，按照指示說明，按住「BOOT」按鈕，再按一下「RST」按鈕，再將「BOOT」按鈕放開，即可開始更新。
+
 更新時最上方的訊息文字，會同步顯示更新的進度。
 
 ![Web:Bit 硬體 ( 更新韌體 )](../../../../media/zh-tw/education/info/ota-05.jpg)

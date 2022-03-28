@@ -26,7 +26,7 @@ Web:Bit 教育版的編輯器分成網頁版和安裝版兩種，兩個版本介
 
 ![Web:Bit](../../../media/zh-tw/education/index-01.jpg)
 
-## Web:Bit 硬體開發板
+## Web:Bit V1 硬體規格
 
 Web:Bit 是 Webduino 最新的開發板，除了原本的功能一應俱全 ( Wi-Fi 操控、多裝置串連、協同作業...等 )，更內建許多新的元件和傳感器、搭配內建 2.4G Wi-Fi 功能，是目前市面上最高效能、最穩定以及最通用的產品之一。
 
@@ -47,7 +47,10 @@ Web:Bit 開發板長 5 公分寬 5 公分，重量約 10~12 公克，除了下�
 
 ![Web:Bit](../../../media/zh-tw/education/index-03.jpg)
 
-## Web:Bit 開發板腳位列表
+### Web:Bit 開發板腳位列表
 
 ![Web:Bit](../../../media/zh-tw/education/index-04.jpg)
 
+<!-- ## Web:Bit V2 硬體規格 -->
+
+<!-- ### Web:Bit V2 開發板腳位列表 -->

@@ -2,7 +2,7 @@
 
 使用 Web:Bit 之前，最重要的就是進行初始化設定，初始化設定的目的在於讓 Web:Bit 開發板可以自動上網 ( Internet )，有了初始化設定，我們也能夠自訂開發板的顯示名稱和密碼，更可以連上 internet 進行遠端更新。
 
->- 初始化設定**僅針對透過「Wi-Fi」連線控制**，如果單純使用「USB 操控」，則可以不需要初始化設定。
+>- 需要透過「Wi-Fi」連線控制開發板，才需要先進行初始化設定，如果單純使用「USB 操控」，則可以不進行初始化設定。
 >
 >- 在進行初始化過程中，如果遇到無法連上網路的問題，請參考 [常見問題：無法連線到 Wi-Fi 怎麼辦？](../../faq/wifi.html#connect1#_blank)
 
@@ -44,10 +44,11 @@
 
 ![Web:Bit 硬體 ( 初始化設定 )](../../../../media/zh-tw/education/info/setup-04.jpg)
 
-
 ## 初始化方法 2：連線到開發板進行初始化{{step2}}
 
 如果無法使用安裝版初始化，也可以透過有 Wi-Fi 連線功能的電腦或行動裝置，連接到開發板進行初始化設定，相關步驟如下所示：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zvhc-Sg0t74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 步驟 1、接上電源，輸入 WiFi 帳號密碼連線
 
@@ -78,4 +79,3 @@
 設定完成後按下 SUBMIT 儲存，出現 SAVE OK 的字樣表示儲存成功，此時 Web:Bit 開發板會重啟並閃爍紅燈，當紅燈熄滅且綠燈亮起一次之後，表示 Bit 開發板已經成功連結上家裡或環境內的 WiFi 基地台。( 若紅燈持續閃爍或恆亮，請移除電源，重新操作步驟 1 與步驟 2，若紅燈閃完後亮起「藍燈」而不是綠燈，表示已有新版本可以進行下載更新，請參考 [Web:Bit 更新韌體](ota.html) 一文。 )
 
 ![Web:Bit 硬體 ( 初始化設定 )](../../../../media/zh-tw/education/info/setup-08.jpg)
-
