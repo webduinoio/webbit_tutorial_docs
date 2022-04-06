@@ -25,7 +25,7 @@ Web:Bit 教育版的编辑器分成网页版和安装版两种，两个版本接
 
 ![Web:Bit](../../../media/zh-cn/education/index-01.jpg)
 
-## Web:Bit 硬件开发板
+## Web:Bit V1 开发板
 
 Web:Bit 是 Webduino 最新的开发板，除了原本的功能一应俱全 ( Wi-Fi 操控、多装置串连、协同作业... 等 )，更内建许多新的组件和传感器、搭配内建 2.4G Wi-Fi 和蓝牙功能，是目前市面上最高效能、最稳定以及最通用的产品之一。
 
@@ -34,6 +34,8 @@ Web:Bit 是 Webduino 最新的开发板，除了原本的功能一应俱全 ( Wi
 > - 购买 Web:Bit 请至 [Webduino 在线商店](https://store.webduino.io/products/webduino-bit#_blank)
 
 ![Web:Bit](../../../media/zh-cn/education/index-02.gif)
+
+### 硬体规格
 
 Web:Bit 开发板长 5 公分宽 5 公分，重量约 10~12 公克，除了下方 20 Pin 的「金手指接口」，更内建一个 25 颗全彩 LED 灯的矩阵，两个光敏电阻、两个按钮开关、一个温度感应电阻 一个蜂鸣器和一个九轴传感器 ( 三轴加 速度、三轴陀螺仪与三轴磁力指南针 )。
 
@@ -46,7 +48,24 @@ Web:Bit 开发板长 5 公分宽 5 公分，重量约 10~12 公克，除了下�
 
 ![Web:Bit](../../../media/zh-cn/education/index-03.jpg)
 
-## Web:Bit 开发板脚位列表
+## 脚位列表
 
 ![Web:Bit](../../../media/zh-cn/education/index-04.jpg)
 
+## Web:Bit V2 开发板
+
+### 硬体规格
+
+Web:Bit v2 开发板长 5 公分宽 5 公分，重量约 10~12 公克，除了下方 20 Pin 的「金手指介面」，更内建一个 25 颗全彩 LED 灯的矩阵，两个光敏电阻、两个按钮开关、一个温度感应电阻，以及一个蜂鸣器。
+
+- 全彩 LED 矩阵：( GPIO 18 )
+- 光敏感应器：左上 ( GPIO 12 )、右上 ( GPIO 13 )
+- 按钮开关：按钮 A P5 ( GPIO 5 )、按钮 B P11 ( GPIO 11 )
+- 温度感应器：( GPIO 14 )
+- 蜂鸣器：P0 ( GPIO 17 )
+
+![Web:Bit V2 硬體規格](../../../media/zh-cn/education/webbit_v2_spec.jpg)
+
+### Web:Bit V2 脚位列表
+
+![Web:Bit V2 腳位表](../../../media/zh-cn/education/webbit_v2_pin.jpg)
