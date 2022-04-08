@@ -6,7 +6,7 @@ Google 簡報是 Google 提供的免費服務，學生們可以透過 Google 簡
 
 「顯示 Google 簡報」積木只需要填入簡報網址，就能在小怪獸舞台中顯示簡報畫面。
 
-![](/uploads/upload_251444fcd71974918283c431a5081b94.png)
+![](https://md.kingkit.codes/uploads/upload_251444fcd71974918283c431a5081b94.png)
 
 ### 共用試算表
 
