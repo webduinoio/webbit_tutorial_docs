@@ -1,20 +1,8 @@
 # 英語會話 ( 使用 Google 試算表 )
 
-在 Webduino 凱比物聯網教室的擴充功能裡，可以自己設計英語會話的遊戲與應用情境，部署到凱比機器人之後，產生與眾不同的互動效果，這篇文章將會介紹透過 Google 試算表的方法設定英語會話。
+在 Web:Bit 教育版的擴充功能裡，可以自己設計英語會話的遊戲與應用情境，部署之後，在小怪獸舞台產生與眾不同的互動效果，這篇文章將會介紹透過 Google 試算表的方法設定英語會話。
 
-## 使用英語會話 Google 試算表積木
-
-使用電腦的 Chrome 瀏覽器開啟凱比物聯網教室，輸入凱比機器人的 ID 以及密碼登入。
-
-> - 凱比物聯網教室：[https://kebbi.webduino.io](https://kebbi.webduino.io#_blank)
->
-> - 延伸閱讀：[凱比物聯網教室系列教學](../index.html)
-
-![英語會話 ( Google 試算表 )](../../../../media/zh-tw/education/extension/english-spread-sheet-01.jpg)
-
-登入後，進入 Web:Bit 程式積木。
-
-![英語會話 ( Google 試算表 )](../../../../media/zh-tw/education/extension/english-spread-sheet-02.jpg)
+## 開啟英語會話 Google 試算表積木
 
 點選右上方「擴充」選單，開啟擴充功能，畫面往下拉，點選「英語會話」，就可以將英語會話的擴充積木加入積木清單。
 
@@ -77,7 +65,3 @@
 按下右上方的「執行」按鈕，就會看見右下角的「怪獸舞台區域」，變成英語會話的關卡，點擊右上角全螢幕的符號，變成全螢幕就可進行會話互動。
 
 ![英語會話 ( Google 試算表 )](../../../../media/zh-tw/education/extension/english-spread-sheet-15.jpg)
-
-如果要將英語會話關卡部署到凱比機器人，將滑鼠移到右上方的「更多」選單，點選「部署到機器人」，輸入這個程式的專案名稱，以及登入時的密碼，就能將英語會話的程式部署到凱比機器人。
-
-![英語會話 ( Google 試算表 )](../../../../media/zh-tw/education/extension/english-spread-sheet-16.jpg)
