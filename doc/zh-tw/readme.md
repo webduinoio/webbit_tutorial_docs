@@ -34,6 +34,7 @@
   - [I/O 引腳](education/board/io-pin.md)
 - **擴充功能**
   - [Google 試算表](education/extension/google-spreadsheet.md)
+  - [Google 簡報](education/extension/google-slides.md)
   - [氣象資訊](education/extension/weather.md)
   - [網路廣播](education/extension/broadcast.md)
   - [LINE 聊天操控](education/extension/line.md)
