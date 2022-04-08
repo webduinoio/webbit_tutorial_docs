@@ -70,6 +70,6 @@ Web:Bit 開發板長 5 公分寬 5 公分，重量約 10~12 公克，除了下�
 
 ![Web:Bit](../../../media/zh-tw/education/index-04.jpg)
 
-## V1 V2 比較表
+## V1 與 V2 比較
 
 ![Web:Bit](../../../media/zh-tw/education/webbit_v1v2_compare.png)
