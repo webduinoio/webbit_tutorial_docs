@@ -6,7 +6,7 @@ Google 簡報是 Google 提供的免費服務，學生們可以透過 Google 簡
 
 「顯示 Google 簡報」積木只需要填入簡報網址，就能在小怪獸舞台中顯示簡報畫面。
 
-![Web:Bit Google 簡報](../../../../media/zh-tw/education/extension/google-spreadsheet-01.jpg)
+![Web:Bit Google 簡報](../../../../media/zh-tw/education/extension/google-slides-01.png)
 
 ### 共用試算表
 
@@ -14,7 +14,7 @@ Google 簡報是 Google 提供的免費服務，學生們可以透過 Google 簡
 
 1. 登入 Google 帳號，在雲端空間中按下「右鍵」，選擇「Google 簡報」。
 
-    ![Web:Bit Google 簡報](../../../../media/zh-tw/education/extension/google-spreadsheet-0.jpg)
+    ![Web:Bit Google 簡報](../../../../media/zh-tw/education/extension/google-slides-02.png)
 
 2. 建立簡報後，編輯標題和內容。
 
