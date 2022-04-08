@@ -7,7 +7,7 @@
 1. 點擊「影像分類」積木右鍵，選擇「影像訓練平台」，進入影像訓練平台。
 或直接點擊 [影像訓練平台](https://vision.webduino.io/) 連結進入。
 
-    ![](/uploads/upload_2c1c6486beb529f03c45bb652ef8ce89.png)
+    ![Web:Bit 影像訓練](../../../../media/zh-tw/education/extension/imagemlDetect-training-01.jpg)
 
 2. 在頁面中可以看到左側有「分類」和「模型」兩個選項，分別為「建立圖片庫」和「建立影像辨識模型」功能。
 
