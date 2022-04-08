@@ -25,6 +25,24 @@ Web:Bit 教育版的編輯器分成網頁版和安裝版兩種，兩個版本介
 
 ![Web:Bit](../../../media/zh-tw/education/index-01.jpg)
 
+## Web:Bit V2 開發板
+
+### 硬體規格
+
+Web:Bit v2 開發板長 5 公分寬 5 公分，重量約 10~12 公克，除了下方 20 Pin 的「金手指介面」，更內建一個 25 顆全彩 LED 燈的矩陣，兩個光敏電阻、兩個按鈕開關、一個溫度感應電阻，以及一個蜂鳴器。
+
+- 全彩 LED 矩陣：( GPIO 18 )
+- 光敏感應器：左上 ( GPIO 12 )、右上 ( GPIO 13 )
+- 按鈕開關：按鈕 A P5 ( GPIO 5 )、按鈕 B P11 ( GPIO 11 )
+- 溫度感應器：( GPIO 14 )
+- 蜂鳴器：P0 ( GPIO 17 )
+
+![Web:Bit V2 硬體規格](../../../media/zh-tw/education/webbit_v2_spec.jpg)
+
+### Web:Bit V2 腳位列表
+
+![Web:Bit V2 腳位表](../../../media/zh-tw/education/webbit_v2_pin.jpg)
+
 ## Web:Bit V1 開發板
 
 Web:Bit 是 Webduino 最新的開發板，除了原本的功能一應俱全 ( Wi-Fi 操控、多裝置串連、協同作業...等 )，更內建許多新的元件和傳感器、搭配內建 2.4G Wi-Fi 功能，是目前市面上最高效能、最穩定以及最通用的產品之一。
@@ -52,20 +70,6 @@ Web:Bit 開發板長 5 公分寬 5 公分，重量約 10~12 公克，除了下�
 
 ![Web:Bit](../../../media/zh-tw/education/index-04.jpg)
 
-## Web:Bit V2 開發板
+## V1 V2 比較表
 
-### 硬體規格
-
-Web:Bit v2 開發板長 5 公分寬 5 公分，重量約 10~12 公克，除了下方 20 Pin 的「金手指介面」，更內建一個 25 顆全彩 LED 燈的矩陣，兩個光敏電阻、兩個按鈕開關、一個溫度感應電阻，以及一個蜂鳴器。
-
-- 全彩 LED 矩陣：( GPIO 18 )
-- 光敏感應器：左上 ( GPIO 12 )、右上 ( GPIO 13 )
-- 按鈕開關：按鈕 A P5 ( GPIO 5 )、按鈕 B P11 ( GPIO 11 )
-- 溫度感應器：( GPIO 14 )
-- 蜂鳴器：P0 ( GPIO 17 )
-
-![Web:Bit V2 硬體規格](../../../media/zh-tw/education/webbit_v2_spec.jpg)
-
-### Web:Bit V2 腳位列表
-
-![Web:Bit V2 腳位表](../../../media/zh-tw/education/webbit_v2_pin.jpg)
+![Web:Bit](../../../media/zh-tw/education/webbit_v1v2_compare.png)
