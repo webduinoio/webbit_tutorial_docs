@@ -12,6 +12,8 @@
 
 > 安裝版下載：[WebBitSetup.exe](https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe#_blank)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/214xij27_78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 步驟 1、開啟工具列
 
 打開安裝版後，最上方會出現安裝版的「版本號碼」以及「掃描 USB 裝置」的提示訊息，此時可以將 Web:Bit 硬體開發板使用 USB 線連接電腦，讓軟體進行掃描。
@@ -48,7 +50,7 @@
 
 如果無法使用安裝版初始化，也可以透過有 Wi-Fi 連線功能的電腦或行動裝置，連接到開發板進行初始化設定，相關步驟如下所示：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zvhc-Sg0t74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jRaZllkLE2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 步驟 1、接上電源，輸入 WiFi 帳號密碼連線
 
