@@ -1,0 +1,22 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "這是 Web:Bit 的教學文多語系檔案，新增或編輯文件後，會由 Webduino 官方審閱，審閱後就會公開於 Web:Bit 教學網站內，歡迎有志之士一同加入教學文的撰寫與維護～",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webduinoio/webbit_tutorial_docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webduinoio/webbit_tutorial_docs/issues"
+  },
+  "homepage": "https://github.com/webduinoio/webbit_tutorial_docs#readme"
+}

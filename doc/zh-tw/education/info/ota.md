@@ -4,6 +4,8 @@
 
 ## 更新韌體方法 1：使用安裝版進行更新{{step1}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfYnym2oWsI?start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 在電腦中打開安裝版 ( 不清楚什麼是安裝版，請參考 [Web:Bit 編輯器](../index.html#software) )，將 Web:Bit 開發板使用 USB 線連接電腦，確認安裝版已經正確讀取到 Web:Bit 開發板之後 ( 上方會出現 Web:Bit 開發板的 Device ID 以及版本號碼 )，滑鼠選擇「*工具 > 更新韌體*」，就能開始更新。
 
 > 安裝版下載：[WebBitSetup.exe](https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe#_blank)
@@ -26,6 +28,8 @@
 
 ![Web:Bit 硬體 ( 更新韌體 )](../../../../media/zh-tw/education/info/ota-03.jpg)
 
+> 如果您是使用 Web:Bit V2 開發板，按下「確定」後會出現操作指示畫面，按照指示說明，按住「BOOT」按鈕，再按一下「RST」按鈕，再將「BOOT」按鈕放開，即可開始更新。
+
 更新時最上方的訊息文字，會同步顯示更新的進度。
 
 ![Web:Bit 硬體 ( 更新韌體 )](../../../../media/zh-tw/education/info/ota-05.jpg)
@@ -35,6 +39,8 @@
 ![Web:Bit 硬體 ( 更新韌體 )](../../../../media/zh-tw/education/info/ota-06.jpg)
 
 ## 更新韌體方法 2：透過 Wi-Fi 遠端更新{{step2}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EF49lfAxRsU?start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 遠端更新 ( OTA ) 可以在 Web:Bit 開發板連上網路後，連線遠端伺服器更新取得最新版本韌體，更新步驟如下：
 
@@ -58,4 +64,3 @@
 - 步驟 2、**同時按住按鈕 A 和 B。**
 - 步驟 3、接上開發板電源，**聽到蜂鳴器發出聲響後放開按鈕 A 與 B**，此時開發板已經恢復出廠設定值。( **恢復設定值會將自訂的 Wi-Fi 帳號、密碼、自訂的 device SSID 和密碼清除，這個步驟會造成開發板無法連接所在場所的 Wi-Fi** )
 - 步驟 4、重新執行初始化設定，參考：[Web:Bit 硬體 ( 初始化設定 )](setup.html)
-
