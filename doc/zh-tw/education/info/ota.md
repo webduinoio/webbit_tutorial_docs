@@ -4,7 +4,7 @@
 
 ## 更新韌體方法 1：使用安裝版進行更新{{step1}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/214xij27_78?start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfYnym2oWsI?start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 在電腦中打開安裝版 ( 不清楚什麼是安裝版，請參考 [Web:Bit 編輯器](../index.html#software) )，將 Web:Bit 開發板使用 USB 線連接電腦，確認安裝版已經正確讀取到 Web:Bit 開發板之後 ( 上方會出現 Web:Bit 開發板的 Device ID 以及版本號碼 )，滑鼠選擇「*工具 > 更新韌體*」，就能開始更新。
 
@@ -40,7 +40,7 @@
 
 ## 更新韌體方法 2：透過 Wi-Fi 遠端更新{{step2}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jRaZllkLE2g?start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EF49lfAxRsU?start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 遠端更新 ( OTA ) 可以在 Web:Bit 開發板連上網路後，連線遠端伺服器更新取得最新版本韌體，更新步驟如下：
 
