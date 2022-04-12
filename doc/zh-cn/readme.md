@@ -30,7 +30,7 @@
   - [按钮开关](education/board/ab-button.md)
   - [侦测光线＆温度](education/board/photocell-thermistor.md)
   - [音乐＆声音](education/board/buzzer.md)
-  - [九轴体感侦测](education/board/mpu9250.md)
+  - [九轴体感侦测 ( 此功能仅适用 Web:Bit V1 )](education/board/mpu9250.md)
   - [I/O 引脚](education/board/io-pin.md)
 - **扩充功能**
   - [Google 试算表](education/extension/google-spreadsheet.md)
