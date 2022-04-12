@@ -1,75 +1,75 @@
-# 英語會話 ( 使用程式積木 )
+# 英语会话 ( 使用程式积木 )
 
-在 Web:Bit 教育版的擴充功能裡，可以自己設計英語會話的遊戲與應用情境，部署之後，在小怪獸舞台產生與眾不同的互動效果，這篇文章將會介紹透過程式積木的方法設定英語會話。
+在 Web:Bit 教育版的扩充功能里，可以自己设计英语会话的游戏与应用情境，部署之后，在小怪兽舞台产生与众不同的互动效果，这篇文章将会介绍透过程式积木的方法设定英语会话。
 
-延伸 [英語會話 ( 使用 Google 試算表 )](english-spread-sheet.html)，進入 Web:Bit 教育版後，開啟英語會話擴充功能，在左側積木清單的擴充功能裡，選擇「英語會話」的積木，除了第一塊「載入 Google 試算表關卡模板」是獨立運作，其他的積木能做出互動式的英語會話的互動情境，以下將會介紹這些積木以及相關用法。
+延伸 [英语会话 ( 使用 Google 试算表 )](english-spread-sheet.html)，进入 Web:Bit 教育版后，开启英语会话扩充功能，在左侧积木清单的扩充功能里，选择「英语会话」的积木，除了第一块「载入 Google 试算表关卡模板」是独立运作，其他的积木能做出互动式的英语会话的互动情境，以下将会介绍这些积木以及相关用法。
 
-## 積木 - 環境設定 ( 一次性 )
+## 积木 - 环境设定 ( 一次性 )
 
-「英語會話環境設定」的積木，在一個英語會話的程式裡「*只能使用一次*」，主要作用為設定整體英語會話的環境，包含主題名稱、提示、等級、語速、嘗試次數、分數評語的相關設定選項。
+「英语会话环境设定」的积木，在一个英语会话的程式里「*只能使用一次*」，主要作用为设定整体英语会话的环境，包含主题名称、提示、等级、语速、尝试次数、分数评语的相关设定选项。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-02.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-02.jpg)
 
-## 積木 - 關卡設定 ( 不同關卡可套用不同設定 )
+## 积木 - 关卡设定 ( 不同关卡可套用不同设定 )
 
-「畫面背景」、「過關背景」、「角色設定」和「角色位置」這四個積木，會在不同的關卡開始之前進行設定，例如機場的關卡就可套用機場的背景以及空服員的角色，麵包店的關卡可以套用烘培坊的背景和廚師的角色，依此類推。
+「画面背景」、「过关背景」、「角色设定」和「角色位置」这四个积木，会在不同的关卡开始之前进行设定，例如机场的关卡就可套用机场的背景以及空服员的角色，面包店的关卡可以套用烘培坊的背景和厨师的角色，依此类推。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-03.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-03.jpg)
 
-## 積木 - 關卡內容  ( 不同關卡可使用不同內容 )
+## 积木 - 关卡内容  ( 不同关卡可使用不同内容 )
 
-設定環境和關卡之後，透過「角色說...」的積木，就能讓角色依序發聲對話，「*如果角色是使用者，則會要求使用者透過麥克風朗讀語音*」，藉由人工智慧判斷正確率，此外亦可透過「取得失敗次數」和「結束會話」，進行更多的互動效果。
+设定环境和关卡之后，透过「角色说...」的积木，就能让角色依序发声对话，「*如果角色是使用者，则会要求使用者透过麦克风朗读语音*」，藉由人工智慧判断正确率，此外亦可透过「取得失败次数」和「结束会话」，进行更多的互动效果。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-04.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-04.jpg)
 
-## 設計一段英語會話
+## 设计一段英语会话
 
-放入環境設定積木 ( 全部採用預設值 ) 以及背景圖片的積木。
+放入环境设定积木 ( 全部采用预设值 ) 以及背景图片的积木。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-05.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-05.jpg)
 
-前往 Google 圖片搜尋，搜尋一張理想的背景圖 ( 範例搜尋是 mario background )，點擊圖片之後，用滑鼠在圖片上按右鍵，複製圖片的網址。
+前往 Google 图片搜寻，搜寻一张理想的背景图 ( 范例搜寻是 mario background )，点击图片之后，用滑鼠在图片上按右键，复制图片的网址。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-06.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-06.jpg)
 
-回到背景圖片的欄位，貼上背景圖片的網址。( 因為是 Google 圖片搜尋，所以相關程式請勿商業使用，除非確認該圖片可以商業使用 )
+回到背景图片的栏位，贴上背景图片的网址。 ( 因为是 Google 图片搜寻，所以相关程式请勿商业使用，除非确认该图片可以商业使用 )
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-07.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-07.jpg)
 
-放入過關圖片的積木，Google 圖片搜尋 good job，找到合適的圖片複製網址並貼到欄位中。
+放入过关图片的积木，Google 图片搜寻 good job，找到合适的图片复制网址并贴到栏位中。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-08.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-08.jpg)
 
-放入角色設定的積木，設定角色 1 是名為馬力歐的電腦，角色 2 是名為壞力歐的使用者，並隱藏角色 3 和 4 。
+放入角色设定的积木，设定角色 1 是名为马力欧的电脑，角色 2 是名为坏力欧的使用者，并隐藏角色 3 和 4 。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-09.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-09.jpg)
 
-前往 Google 圖片搜尋馬力歐的圖片，使用「工具」搜尋「透明」的圖片。
+前往 Google 图片搜寻马力欧的图片，使用「工具」搜寻「透明」的图片。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-10.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-10.jpg)
 
-找到合適的圖片，複製網址，貼上積木對應的欄位。
+找到合适的图片，复制网址，贴上积木对应的栏位。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-11.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-11.jpg)
 
-同樣的做法，搜尋壞力歐的背景透明的圖片，複製網址，貼上積木對應的欄位。
+同样的做法，搜寻坏力欧的背景透明的图片，复制网址，贴上积木对应的栏位。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-12.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-12.jpg)
 
-放入設定角色位置的積木，設定角色 1 在左下，角色 2 在右下，角色 3 和 4 設定為隱藏。
+放入设定角色位置的积木，设定角色 1 在左下，角色 2 在右下，角色 3 和 4 设定为隐藏。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-13.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-13.jpg)
 
-放入角色對話的積木，輸入要對話的內容。
+放入角色对话的积木，输入要对话的内容。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-14.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-14.jpg)
 
-最後在積木一開始的位置，放入「設定怪獸舞台為全螢幕」以及「所有怪獸隱藏」的積木。
+最后在积木一开始的位置，放入「设定怪兽舞台为全萤幕」以及「所有怪兽隐藏」的积木。
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-15.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-15.jpg)
 
-程式執行後，就可以進行相關的英語對話練習。
+程式执行后，就可以进行相关的英语对话练习。
 
-> 範例參考：[英語會話 ( 使用程式積木 )](https://kebbi-iot.webduino.io/webbit/?demo=default#rybdKaz5WOaqk)
+> 范例参考：[英语会话 ( 使用程式积木 )](https://kebbi-iot.webduino.io/webbit/?demo=default#rybdKaz5WOaqk)
 
-![英語會話 ( 使用程式積木 )](../../../../media/zh-cn/education/extension/english-blockly-16.jpg)
+![英语会话 ( 使用程式积木 )](../../../../media/zh-cn/education/extension/english-blockly-16.jpg)
