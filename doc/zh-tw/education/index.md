@@ -12,13 +12,14 @@ Web:Bit 教育版的編輯器分成網頁版和安裝版兩種，兩個版本介
 
 ### 1、網頁版
 
-網頁版不需要安裝任何軟體，只要電腦有網路，透過瀏覽器打開指定網頁就能運作，不論是 Windows 或 Mac 都能運作，適合快速體驗的使用者。( 網頁版*限定 Google Chrome 瀏覽器，目前不支援 USB 連線控制* )
+網頁版不需要安裝任何軟體，只要電腦有網路，透過瀏覽器打開指定網頁就能運作，不論是 Windows 或 Mac 都能運作，適合快速體驗的使用者。( 網頁版限定 Google Chrome 瀏覽器 )
+網頁版即日起可透過 USB 控制開發板囉！使用前，請先更新開發板韌體，詳細操作方式請參考教學文[Web:Bit 開發板](https://webbit.webduino.io/tutorials/doc/zh-tw/education/board/board.html)
 
 > 網頁版網址：[https://webbit.webduino.io](https://webbit.webduino.io#_blank)
 
 ### 2、安裝版
 
-安裝版目前只提供 Windows 版本，介面和操作方式和網頁版完全相同，差別在於安裝版需要下載 Web:Bit 的執行檔進行安裝，雖然多了額外的安裝步驟，但安裝版能夠更方便的進行「*初始化設定*」、「*USB 連線*」...等操控行為。
+安裝版目前只提供 Windows 版本，介面和操作方式和網頁版完全相同，差別在於安裝版需要下載 Web:Bit 的執行檔進行安裝。
 
 > - 參考資源：[編輯器 ( 安裝版工具列 ) ](info/toolbar.html)
 > - 安裝版下載：[WebBitSetup.exe](https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe#_blank)
