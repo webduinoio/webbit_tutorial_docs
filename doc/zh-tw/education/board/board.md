@@ -10,9 +10,11 @@ Web:Bit 提供了三種控制開發板的方式，分別是「模擬器」、「
 
 ![Web:Bit 開發板](../../../../media/zh-tw/education/board/board-02.jpg)
 
-下拉選單選擇「USB」，表示*使用「USB 線」連接「硬體開發板」*，**必須使用「Web:Bit 安裝版編輯器」操作**，例如繪製一個圖案，執行後，透過 USB 連接的開發板就會顯示圖形。
+下拉選單選擇「USB」，表示透過「USB 線」控制「硬體開發板」，使用時請將開發板透過 USB 線連接電腦。 **網頁版或安裝版都可以使用這個功能**，例如繪製一個圖案，執行後，透過 USB 連接的開發板就會顯示圖形。
 
-> Web:Bit 安裝版編輯器請參考：[Web:Bit 編輯器 ( 安裝版工具列 )](../info/toolbar.html)
+> 即日起，Web:Bit 網頁版也能透過 USB 控制開發板囉！使用前請先將開發板韌體更新到 1.1.0_0613_01 以上，接著將開發板透過 USB 線連接電腦，按下「執行」就可以開始控制。開發板韌體更新方式請參考[硬體開發板 ( 更新韌體 )](https://webbit.webduino.io/tutorials/doc/zh-tw/education/info/ota.html)。
+>
+> 使用網頁版 USB 功能，**不需要**同時開啟安裝版。
 
 ![Web:Bit 開發板](../../../../media/zh-tw/education/board/board-03.jpg)
 
