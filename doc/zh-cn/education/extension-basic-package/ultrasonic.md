@@ -11,8 +11,8 @@
 ![Web:Bit 超音波传感器](../../../../media/zh-cn/education/extension-basic-package/ultrasonic-01.jpg)
 
 > *超音波传感器积木必须搭配「开发板」积木，且不支援模拟器*，只支援 USB 与 Wi-Fi 控制。
-> - USB 控制模式为「安装版编辑器」限定，请参考 [Web:Bit 编辑器](../index.html#software)
-> - Wi-Fi 模式需要开发板连接 Wi-Fi，请参考 [Web:Bit 硬体开发板 ( 初始化设定 )](../info/setup.html)
+>
+> 详情请参考 [Web:Bit 开发板](https://webbit.webduino.io/tutorials/doc/zh-cn/education/board/board.html)
 
 ## 超音波传感器 接线图
 

@@ -12,11 +12,9 @@
 
 ![Web:Bit 超音波傳感器](../../../../media/zh-tw/education/extension-basic-package/ultrasonic-01.jpg)
 
-> *超音波傳感器積木必須搭配「開發板」積木，且不支援模擬器*，只支援 USB 與 Wi-Fi 控制。
+> *超音波傳感器積木必須搭配「開發板」積木，且不支援模擬器*，只支援 USB 與 Wi-Fi 控制。  
 >
-> - USB 控制模式為「安裝版編輯器」限定，請參考 [Web:Bit 編輯器](../index.html#software)
->
-> - Wi-Fi 模式需要開發板連接 Wi-Fi，請參考 [Web:Bit 硬體開發板 ( 初始化設定 )](../info/setup.html)
+> 詳情請參考 [Web:Bit 開發板](https://webbit.webduino.io/tutorials/doc/zh-tw/education/board/board.html)
 
 ## 超音波傳感器 接線圖
 
