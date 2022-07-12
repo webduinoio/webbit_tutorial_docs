@@ -14,7 +14,6 @@
 
 ![红外线发射＆接收](../../../../media/zh-cn/education/extension-basic-package/ir-01.jpg)
 
-
 ## 红外线接收 接线图
 
 使用扩充套件包的红外线接收模组，将 S 讯号脚连接 Web:Bit 扩充板的 1 号脚，VCC 连接 3V3，GND 连接 GND。
@@ -31,11 +30,11 @@
 
 ![红外线发射＆接收](../../../../media/zh-cn/education/extension-basic-package/ir-05.jpg)
 
-## 红外线摇空气，遥控灯号
+## 红外线遥控器，遥控灯号
 
 延续上方的程式如果搭配「逻辑判断」的积木，就能够透过红外线遥控器遥控 LED 点矩阵的图案显示，程式执行后，在收到 A12345678 讯号时显示红色笑脸，收到 B87654321 讯号时显示绿色方块。
 
-> 范例：[红外线摇空气，遥控灯号](https://webbit.webduino.io/blockly/?demo=default#ayxv98l9P7JqM#_blank)
+> 范例：[红外线遥控器，遥控灯号](https://webbit.webduino.io/blockly/?demo=default#ayxv98l9P7JqM#_blank)
 
 ![红外线发射＆接收](../../../../media/zh-cn/education/extension-basic-package/ir-06.jpg)
 
