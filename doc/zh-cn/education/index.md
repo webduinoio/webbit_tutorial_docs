@@ -14,7 +14,7 @@ Web:Bit 教育版的编辑器分成网页版和安装版两种，两个版本介
 
 网页版不需要安装任何软体，只要电脑有网路，透过浏览器打开指定网页就能运作，不论是 Windows 或 Mac 都能运作，适合快速体验的使用者。 ( 网页版限定 Google Chrome 浏览器 )  
 
-网页版即日起可透过 USB 控制开发板啰！使用前，请先更新开发板韧体，详细操作方式请参考教学文 [Web:Bit 开发板](https://webbit.webduino.io/tutorials/doc/zh-tw/education/board/board.html)。
+网页版即日起可透过 USB 控制开发板啰！使用前，请先更新开发板韧体，详细操作方式请参考教学文 [Web:Bit 开发板](https://webbit.webduino.io/tutorials/doc/zh-cn/education/board/board.html)。
 
 > 网页版网址：[https://webbit.webduino.io](https://webbit.webduino.io#_blank)
 
